@@ -3,7 +3,7 @@ from ibm_watsonx_ai.foundation_models import Model
 # initialize the IBM Watsonx AI model
 # IBM Credentials
 
-api_key ="KFSb0FVJIWyLl-Er6hqL57a8Qbjj70yfO-YjKYfXGb0M"
+api_key ="your own api_key"
 project_id ="44ed3b78-b381-47db-a9e1-c1f3c745d61d"
 base_url = "https://eu-de.ml.cloud.ibm.com"
 
